@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: ea4a610cab1c2694083743eb29c58d0a
+timeCreated: 1514821096
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Body
+    100002: Bridge
+    100004: Camera
+    100006: Fingerboard
+    100008: //RootNode
+    100010: Frets
+    100012: Head Stock
+    100014: Lamp
+    100016: Machine Heads
+    100018: Neck
+    100020: Nut
+    100022: Output Jack
+    100024: Pickups
+    100026: Selector switch
+    100028: Strap pin
+    100030: Strings
+    100032: Tuning Pegs
+    100034: Volume - Tone knob
+    400000: Body
+    400002: Bridge
+    400004: Camera
+    400006: Fingerboard
+    400008: //RootNode
+    400010: Frets
+    400012: Head Stock
+    400014: Lamp
+    400016: Machine Heads
+    400018: Neck
+    400020: Nut
+    400022: Output Jack
+    400024: Pickups
+    400026: Selector switch
+    400028: Strap pin
+    400030: Strings
+    400032: Tuning Pegs
+    400034: Volume - Tone knob
+    2000000: Camera
+    2100000: Strings
+    2100002: Strings 2
+    2100004: Silver.001
+    2100006: Material.010
+    2100008: Material
+    2100010: No Name
+    2100012: Silver
+    2100014: White
+    2100016: Black
+    2100018: Material.002
+    2100020: Black.002
+    2100022: Silver.002
+    2100024: White.002
+    2100026: Material.007
+    2100028: Black.001
+    2100030: Material.001
+    2300000: Body
+    2300002: Bridge
+    2300004: Fingerboard
+    2300006: Frets
+    2300008: Head Stock
+    2300010: Machine Heads
+    2300012: Neck
+    2300014: Nut
+    2300016: Output Jack
+    2300018: Pickups
+    2300020: Selector switch
+    2300022: Strap pin
+    2300024: Strings
+    2300026: Tuning Pegs
+    2300028: Volume - Tone knob
+    3300000: Body
+    3300002: Bridge
+    3300004: Fingerboard
+    3300006: Frets
+    3300008: Head Stock
+    3300010: Machine Heads
+    3300012: Neck
+    3300014: Nut
+    3300016: Output Jack
+    3300018: Pickups
+    3300020: Selector switch
+    3300022: Strap pin
+    3300024: Strings
+    3300026: Tuning Pegs
+    3300028: Volume - Tone knob
+    4300000: Strings
+    4300002: Tuning Pegs
+    4300004: Machine Heads
+    4300006: Strap pin
+    4300008: Bridge
+    4300010: Selector switch
+    4300012: Output Jack
+    4300014: Volume - Tone knob
+    4300016: Pickups
+    4300018: Fingerboard
+    4300020: Frets
+    4300022: Head Stock
+    4300024: Nut
+    4300026: Body
+    4300028: Neck
+    10800000: Lamp
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

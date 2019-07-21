@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 11ef5dff2b2456f47a8f774bf60f2ad9
+timeCreated: 1511639233
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Venice Classic
+  fontNames:
+  - Venice Classic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

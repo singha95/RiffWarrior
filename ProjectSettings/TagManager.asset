@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FailCollider
+  - Potion
+  - Fire
+  - Monster
+  - NoteDetector
+  - NoteSheet
+  - Success
+  - NoteWall
+  - Note
+  - UIButton
+  - GuitarNotes
+  - HealthSlider
+  - Lane
+  - DamageImage
+  - RecoveryImage
+  - Ground
+  - Boss
+  - SkinnedMesh
+  - AudioManager
+  - Score
+  - StatsManager
+  - RiffManager
+  - MuteTrigger
+  - Difficulty
+  - LightManager
+  - TutorialPortal
+  - EndPortal
+  - ProgressionStage
+  - EndPortalExit
+  - HUD
+  - EndGameText
+  - PopUp
+  - PopUpParent
+  - GameManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Monster
+  - Exit
+  - Boss
+  - Enviroment
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
